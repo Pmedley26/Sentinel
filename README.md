@@ -3,7 +3,7 @@
 - Introductory Video: https://youtu.be/9iHZE7jGI88?si=-0cy_wcYJUGPEojG
 - Part 2: Entra ID Logs, KQL Example: https://youtu.be/bFdEuWiFZSo
 - Part 3: Powershell Execution Detection with Microsoft Defender for Endpoint: https://youtu.be/0O5JVlxSrWM
-- Part 4: More Suspicious Powershell Execution/Unauthorized Domain Controller Sign in Detection Rules: 
+- Part 4: More Suspicious Powershell Execution/Unauthorized Domain Controller Sign in Detection Rules: https://youtu.be/7-wcxU-jHPk?si=njB_J3yDmNKTTez9
 
 # Lab Topology
 - Resource Group
